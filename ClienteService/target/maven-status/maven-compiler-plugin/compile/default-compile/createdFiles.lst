@@ -1,0 +1,5 @@
+com\example\ClienteService\excepcion\ManejadorExcepcionesPersonalizado.class
+com\example\ClienteService\modelo\Cliente.class
+com\example\ClienteService\excepcion\RecursoNoEncontradoExcepcion.class
+com\example\ClienteService\ClienteServiceApplication.class
+com\example\ClienteService\controlador\ClienteController.class
